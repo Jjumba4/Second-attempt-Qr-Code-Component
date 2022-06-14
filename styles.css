@@ -1,0 +1,62 @@
+/**Still working on the concept of media querries as well as the google fonts because i have
+tried them out in this second attempt but i can't see the changes. **/
+@media only screen(min-width: 37px) and (max-width: 1440px) {
+
+}
+
+.attribution {
+ font-size: 15px; text-align: center;
+ }
+
+.attribution a {
+ color: hsl(228, 45%, 44%); 
+}
+
+body {
+	margin-top: 190px;
+	background-color: hsl(220, 15%, 55%);/**i also added this color because it looked nice 
+	me**/
+}
+.rectangle {
+	width: 1400px;
+	height: 600px;
+	background-color: hsl(212, 45%, 89%);
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+}
+
+.container {
+	width: 270px;
+	height: 440px;
+	background-color: hsl(0, 0%, 100%);
+	margin: auto;
+	padding-top: 10px;
+	border-radius: 5%
+}
+
+img {
+	width: 255px;
+	height: auto;
+	margin-left: 8px;
+	margin-top: 1px;
+	border-radius: 7%;
+}
+
+.bold {
+	font-weight: 700;
+	font-size: 20px;
+	text-align: center;
+}
+
+p {
+	font-family: outfit;
+	font-size: 15px;
+}
+
+.light {
+	font-weight: 400;
+	text-align: center;
+	
+}
